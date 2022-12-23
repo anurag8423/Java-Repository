@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=library_management
+comment1.params=d\ d2\ d3\ d4\ b1\ st\ k
+comment1.target=void\ management(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
